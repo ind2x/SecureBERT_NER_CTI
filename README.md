@@ -10,8 +10,9 @@
   + Hacker News
   + NIST
   + CISA
-
-+ 라벨링 => doccano 사용
-
++ 라벨링
+  + doccano 사용
+  + doccano to CoNLL format 코드 작성
 + 딥러닝 모델 (사전학습 bert모델)
-  + SecureBERT-Plus (https://huggingface.co/ehsanaghaei/SecureBERT_Plus) 
+  + SecureBERT-Plus (https://huggingface.co/ehsanaghaei/SecureBERT_Plus)
+  + chatgpt ui 형태의 사이트 제작 후 입력 값에 대한 모델 결과 체크
