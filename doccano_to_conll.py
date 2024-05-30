@@ -7,8 +7,8 @@ from nltk.tokenize import word_tokenize
 from nltk import pos_tag
 
 # NLTK를 위해 필요한 패키지 다운로드
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
+nltk.download('punkt')    # nltk tokenizer model 
+nltk.download('averaged_perceptron_tagger') # nltk pos tag model 
 
 def read_jsonl_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
