@@ -16,10 +16,18 @@
 
 + 라벨링
   + doccano 사용
+  + 18개의 특징 정보들을 선정
   + doccano to CoNLL format 코드 작성
     + 라벨링 후 추출한 데이터셋 (jsonl)을 CoNLL 형태로 변환 
     + 사이트에서 크롤링한 데이터 속에 유니코드(사진 기호 등)이 들어있는 경우에는 제거해줘야 하고 이미 라벨링이 된 경우 제거 후 해당 유니코드가 차지하는 글자 수만큼 그 자리에 공백 추가
     + 라벨링 시 단어 중간에 라벨링을 한 경우 변환 시 잘못 태그가 되므로 제거하거나 다시 라벨링 해줘야 함
+
+<br>
+
+![labeling](https://github.com/ind2x/SecureBERT_NER_CTI/assets/52172169/1c4b3775-27a1-44ae-83da-e878cc218628)
+
+![labels](https://github.com/ind2x/SecureBERT_NER_CTI/assets/52172169/c71ea948-e53c-4fff-8867-e93418c86603)
+
 <br>
 
 + 딥러닝 모델 (사전학습 bert모델)
