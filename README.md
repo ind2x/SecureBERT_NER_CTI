@@ -24,6 +24,8 @@
 
 <br>
 
++ 라벨링 사진
+
 ![labeling](https://github.com/ind2x/SecureBERT_NER_CTI/assets/52172169/1c4b3775-27a1-44ae-83da-e878cc218628)
 
 ![labels](https://github.com/ind2x/SecureBERT_NER_CTI/assets/52172169/c71ea948-e53c-4fff-8867-e93418c86603)
