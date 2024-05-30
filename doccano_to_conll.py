@@ -21,7 +21,7 @@ def jsonl_to_conll_with_pos(jsonl_data):
         text = entry['text']
         labels = entry['label']
 
-        # 문장을 \n 기준으로 분리합니다.
+        # 문장을 \n 기준으로 분리
         # \n이 여러개가 있는 경우는 어떨지 확인해보았고, 문제 없이 제대로 태그되는 것을 확인함
         sentences = text.split('\n')
         current_position = 0
