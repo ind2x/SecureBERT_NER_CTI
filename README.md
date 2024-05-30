@@ -6,7 +6,7 @@
 주제: 보안뉴스/취약점 보고서 등에서 위협 특징 정보(CTI)들을 자동추출하는 기술 개발
 
 + 크롤링 사이트
-  + HackRead
+  + HackRead => 내 담당
   + Hacker News
   + NIST
   + CISA
