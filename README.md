@@ -24,7 +24,7 @@
 
 <br>
 
-+ 라벨링 사진
++ 라벨링 사진 (예시)
 
 ![labeling](https://github.com/ind2x/SecureBERT_NER_CTI/assets/52172169/1c4b3775-27a1-44ae-83da-e878cc218628)
 
