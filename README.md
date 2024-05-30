@@ -26,9 +26,7 @@
   + SecureBERT-Plus (https://huggingface.co/ehsanaghaei/SecureBERT_Plus)
   + chatgpt ui 형태의 사이트 제작 후 입력 값에 대한 모델 결과 체크
 
-<br><br>
-<hr style="border: 1px">
-<br><br>
+<br><hr style="border: 2px"><br>
 
 ## 피드백
 ---
