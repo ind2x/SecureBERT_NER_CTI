@@ -28,9 +28,9 @@ def modify_first_element(blocks):
 			block[0] = ','.join(first_element)
 
 # 파일 경로 지정
-input_filename = 'jong.csv'  # 처음에 xlsx를 csv로 변환시킨 파일
-output_filename = 'jong2.csv'  # 단순 파일 입출력으로 저장시킬 파일
-output2_filename = 'jong3.csv'  # csv 파일 입출력으로 csv로 저장시킬 파일
+input_filename = 'input.csv'  # 처음에 xlsx를 csv로 변환시킨 파일
+output_filename = 'output.csv'  # 단순 파일 입출력으로 저장시킬 파일
+output2_filename = 'res.csv'  # csv 파일 입출력으로 csv로 저장시킬 파일
 
 # 파일을 읽고 분리된 블록을 가져오기
 blocks = split_file_by_commas(input_filename)
