@@ -31,7 +31,8 @@
   + SecureBERT-Plus (https://huggingface.co/ehsanaghaei/SecureBERT_Plus)
   + SecureBERT-Plus와 NER은 BiLSTM+CRF 층 이용
     + Fine-Tuning 시키는게 무엇인지 헷갈림 (BERT를 이용해서 임베딩만 해주는건지 vs BERT를 학습시킨 후에 BERT로 임베딩을 해주는건지)
-    
+    + BERT가 사전학습된 모델인데 우리가 만든 데이터셋을 학습시켜야 하는지 아니면 그냥 이용만해서 임베딩을 해주고 BiLSTM+CRF로 넘기는건지..
+
   + chatgpt ui 형태의 사이트 제작 후 입력 값에 대한 모델 결과 체크
 
 <br>
